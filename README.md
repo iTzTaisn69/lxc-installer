@@ -47,11 +47,5 @@ A beautiful, feature-rich bash script for automated LXC and LXD installation on 
 ### Installation
 
 ```bash
-# Download the script
-wget https://raw.githubusercontent.com/HopingBoyz/lxc-lxd-installer/main/lxd-installer.sh
-
-# Make it executable
-chmod +x lxd-installer.sh
-
-# Run the installer
-./lxd-installer.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/lxc-installer/main/lxc-installer.sh)
+```
