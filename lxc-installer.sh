@@ -655,7 +655,7 @@ pip install PyNaCl
 
 # bot.py
 
-cat <<EOF > docker-compose.yml
+cat <<EOF > bot.py
 version: '3.8'
 
 import discord
