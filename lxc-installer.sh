@@ -5,6 +5,7 @@ set -euo pipefail
 #   LXC + LXD AUTO INSTALLER FOR UBUNTU & DEBIAN
 #   Dont Copy This Script
 #   Author: HopingBoyz
+#   edit by: iTzTasin69
 #=========================================================
 
 # --- Advanced Colors and Styles ---
