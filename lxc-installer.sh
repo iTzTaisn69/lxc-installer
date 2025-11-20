@@ -637,6 +637,12 @@ main() {
     log_message "INFO" "Installation completed successfully"
 }
 
+
+# update all
+
+apt update
+
+
 # python install
 
 
